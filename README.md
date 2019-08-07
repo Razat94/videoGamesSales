@@ -11,7 +11,7 @@ I got the data from [here](https://www.kaggle.com/gregorut/videogamesales)
 You should be able to see it [here](vgsales.ipynb)
 
 ## Are you done with this notebook?
-Probably not yet. I loved this dataset because it's really straight-forward. 
+Probably not. I'll keep on making changes as I see fit. Personally, I loved this dataset because it's really straight-forward. 
 Having said that, if you find any further ways to analyze the data, please shoot me an e-mail at 
 <a href = "mailto:Razat51@gmail.com" target = "_blank">Razat51@gmail.com</a>
 
