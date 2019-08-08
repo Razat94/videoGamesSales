@@ -5,7 +5,7 @@ This is a simple Python Notebook that was used to analyze video game sales
 
 
 ## Where did the data come from?
-I got the data from [here](https://www.kaggle.com/gregorut/videogamesales)
+I got the data from [here](https://www.kaggle.com/gregorut/videogamesales). <br />
 Additionally, I have the csv file located in the same directory. You can see it [here](vgsales.csv)
 
 ## Where can I see the notebook?
