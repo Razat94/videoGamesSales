@@ -17,7 +17,7 @@ I've used to play console games when I was younger, so I was curious to see if I
 ## What have you learned from analyzing the data?
 I'd say the most interesting graph was this: 
 <div align = "center">
-  <img src = "img/gbaGamesPerYear">
+  <img src = "img/gbaGamesPerYear.PNG">
   <p> In essence, video games for the Game Boy Advance came out only from 2000 through 2007.
       Additionally, the amount of video games for the GBA in 2003 was fewer than the amount created in 2002 and 2004. 
 </div>
